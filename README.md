@@ -3,4 +3,4 @@ A 2D shooter game inspired by the chapter of Thunder Over the Sky in Honkai Impa
 
 After downloading the files, play the game by executing MainGame.java.
 
-Initial version created and finished in 2020.
+Initial version created and finished in 2021.
